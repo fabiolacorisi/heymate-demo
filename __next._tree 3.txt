@@ -1,3 +1,0 @@
-:HL["/heymate-demo/_next/static/css/7a3a5747d35ea9c4.css","style"]
-1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"vYdMY9718WDUgCTI6Qi3r","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
