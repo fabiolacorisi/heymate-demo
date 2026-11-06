@@ -2,15 +2,15 @@
   "name": "Hey Mate",
   "short_name": "Hey Mate",
   "description": "Trusted crew, found by voice.",
-  "id": "/heymate-app/",
-  "start_url": "/heymate-app/?source=pwa",
-  "scope": "/heymate-app/",
+  "id": "./",
+  "start_url": "./?source=pwa",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#f6fbff",
   "theme_color": "#0a4595",
   "categories": ["social", "travel", "business"],
   "icons": [
-    { "src": "/heymate-app/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
 }
