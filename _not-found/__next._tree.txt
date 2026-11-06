@@ -1,2 +1,2 @@
-:HL["/heymate-demo/_next/static/css/8945fee753a66cec.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"j_mQ_C45BPPtFuas_R0dO"}
+:HL["/heymate-demo/_next/static/css/7a3a5747d35ea9c4.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"bDkEppLgeDd7spcEGQ4s2"}
