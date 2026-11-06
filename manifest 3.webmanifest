@@ -1,0 +1,16 @@
+{
+  "name": "Hey Mate",
+  "short_name": "Hey Mate",
+  "description": "Trusted crew, found by voice.",
+  "id": "./",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6fbff",
+  "theme_color": "#0a4595",
+  "categories": ["social", "travel", "business"],
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
