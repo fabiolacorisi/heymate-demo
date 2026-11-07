@@ -1,4 +1,4 @@
 :HL["/heymate-demo/_next/static/css/32b6f8805b2b9e84.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"PtFcW_u-nGp7-vTGjXBbQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"KupLl193XNMCTSwjyUy0b","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
